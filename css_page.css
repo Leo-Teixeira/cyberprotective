@@ -1,0 +1,46 @@
+body
+{
+    background-color: #A6DDF9;
+}
+
+.Titre
+{
+    text-align: center;
+    color: red; /*a changer avec la palette*/
+}
+
+.centre
+{
+    text-align: center;
+    vertical-align: middle;
+}
+
+td
+{
+    vertical-align: middle;
+}
+
+form
+{
+    width: 200px;
+    padding: 10px;
+    margin-top: -30px;
+    border: 2px solid red;
+    
+}
+
+table
+{
+    margin: auto;
+}
+
+.taille
+{
+    height: 150px;
+    width: 300px;
+}
+
+.aligne
+{
+    width: 30px;
+}

@@ -1,0 +1,18 @@
+Aide au niveau de la base de données  : 
+
+Pour que le probgramme fonctionne vous aurez besoin de pouvoir acceder à une instance de mysql ou Mariadb en tant qu'administrateur pour pouvoir generer la base de test et le jeux d'essai.
+
+Vous trouverez dans ce dossier le fichier : Base_brouillondb.sql
+C'est un fichier dump de base mysql ( généré avec HeidiSQL ).
+Il crée une base de donnée brouillondb et une table client avec un jeux d'essai de 3 lignes.
+
+Pour les gens qui ont de maigres connaissances en mysql :
+- Renseignez vous sur google au niveau de l'instruction MySQLDump.
+- Sinon il existe de tres bons gestionnaires graphiques de base de données comme l'excellent HeidiSQL (https://www.heidisql.com/). Ce dernier vous permettra d'executer le fichier de dump dans votre Base MySQL.
+- Si vous n'avez pas de mysql installé et que vous desirez lancer mysql sur votre PC je vous conseille : XAMPP
+(https://www.apachefriends.org/fr/index.html )
+
+Cordialement.
+Fabrice GARCIA.
+
+

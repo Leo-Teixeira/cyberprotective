@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MysqlAppModel.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Param_UserId" Type="System.String" Scope="User">
+      <Value Profile="(Default)">root</Value>
+    </Setting>
+    <Setting Name="Param_Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">127.0.0.1</Value>
+    </Setting>
+    <Setting Name="Param_PassWord" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xampp</Value>
+    </Setting>
+    <Setting Name="Param_MysqlPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3306</Value>
+    </Setting>
+    <Setting Name="Param_MainDatabase" Type="System.String" Scope="User">
+      <Value Profile="(Default)">brouillondb</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
